@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout
+android:id="@+id/widget0"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+xmlns:android="http://schemas.android.com/apk/res/android"
+>
+<Button
+android:layout_width="144px"
+android:layout_height="109px"
+android:text="New Thing"
+android:textStyle="bold"
+android:layout_x="11px"
+android:layout_y="94px"
+android:id="@+id/main_new_thing">
+</Button>
+<Button
+android:layout_width="141px"
+android:layout_height="107px"
+android:text="My  Things"
+android:textStyle="bold"
+android:layout_x="164px"
+android:layout_y="97px"
+android:id="@+id/main_my_things">
+</Button>
+<Button
+android:layout_width="144px"
+android:layout_height="107px"
+android:text="New Photo"
+android:textStyle="bold"
+android:layout_x="13px"
+android:layout_y="230px"
+android:id="@+id/main_new_photo">
+</Button>
+<TextView
+android:layout_width="wrap_content"
+android:layout_height="23px"
+android:text="RIO DE JANEIRO"
+android:textSize="18sp"
+android:textStyle="bold"
+android:layout_x="91px"
+android:layout_y="23px"
+android:id="@+id/main_my_city">
+</TextView>
+<Button
+android:layout_width="141px"
+android:layout_height="105px"
+android:text="My Places"
+android:textStyle="bold"
+android:layout_x="163px"
+android:layout_y="230px"
+android:id="@+id/main_my_places">
+</Button>
+</AbsoluteLayout>
